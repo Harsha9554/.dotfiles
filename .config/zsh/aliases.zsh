@@ -2,8 +2,9 @@ alias lz="lazygit"
 alias py="python3"
 alias tx="tmux"
 
-alias ls="ls --color=auto"
+# alias ls="ls --color=auto"
 alias ll="ls -la --color=auto"
+alias ls="ls -la --color=auto"
 
 alias ..="cd .."
 
@@ -19,3 +20,4 @@ alias cfg='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 alias x-phase="tmuxp load $HOME/.config/tmuxp/x-phase.yaml"
 alias x-eleet="tmuxp load $HOME/.config/tmuxp/x-eleet.yaml"
 
+alias c="clear"
