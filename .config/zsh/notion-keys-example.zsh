@@ -1,0 +1,12 @@
+export NOTION_LEETS_TOKEN=""
+export NOTION_IDEAS_TOKEN=""
+export NOTION_PROJECTS_TOKEN=""
+export NOTION_TASKS_TOKEN=""
+
+export NOTION_LEETS_DB_ID=""
+export NOTION_IDEAS_DB_ID=""
+export NOTION_PROJECTS_DB_ID=""
+export NOTION_TASKS_DB_ID=""
+
+
+
