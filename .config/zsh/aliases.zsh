@@ -21,3 +21,4 @@ alias x-phase="tmuxp load $HOME/.config/tmuxp/x-phase.yaml"
 alias x-eleet="tmuxp load $HOME/.config/tmuxp/x-eleet.yaml"
 
 alias c="clear"
+alias notion="zsh $HOME/scripts/notion-add-script.sh"
