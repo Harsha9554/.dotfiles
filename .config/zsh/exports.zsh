@@ -1,6 +1,7 @@
 HISTSIZE=1000000
 SAVEHIST=1000000
 
+
 export EDITOR="vi"
 export HISTFILE="$HOME/.dump/zsh/.zsh_history"
 
