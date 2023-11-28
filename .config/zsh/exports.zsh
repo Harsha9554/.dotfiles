@@ -25,6 +25,15 @@ export CUDA_HOME="/usr/local/cuda-11.3"
 export PATH="$HOME/.local/bin":$CUDA_HOME/bin:$PATH
 export LD_LIBRARY_PATH=${CUDA_HOME}/lib64:$LD_LIBRARY_PATH
 
+# icloud
+export ICLOUD_PATH="/mnt/c/Users/Sai SriHarsha G/iCloudDrive"
+
+# project-eleet
+export PROJECT_ELEET="/home/harsha9554/code/projects/active/project-eLeet"
+
+# ledger
+export LEDGER_FILE="$ICLOUD_PATH/iCloud~md~obsidian/harsha's-vault/ledger/hole-transactions.ledger"
+
 # nvm
 export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
